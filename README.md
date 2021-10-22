@@ -1,6 +1,6 @@
 # **Eric Sappington**
-#### [Resume](https://github.com/esappington/Resume/blob/main/FullResume)
-#### [Linkdin](https://www.linkedin.com/in/eric-sappington-0bb20628)
+#### [_Resume_](https://github.com/esappington/Resume/blob/main/FullResume)
+#### [_Linkdin_](https://www.linkedin.com/in/eric-sappington-0bb20628)
 
 ## Python Coding Programs
 * [Cylinder_coatings_estimator](https://github.com/esappington/Resume/blob/b0026deee2efe7af8fcb77f58b842d866967e5d9/cylinder_coatings_estimator.py)
@@ -14,5 +14,6 @@
 
 ![fishing](https://github.com/esappington/Resume/blob/main/fishing%20(1).jfif)
 
-![ATV](![image](https://user-images.githubusercontent.com/92964754/138426863-0cc9e86c-9972-4d8d-8fee-7fa694a32160.png))
+![ATV](https://cdn.pixabay.com/photo/2016/09/18/10/10/quad-1677678_1280.jpg)
 
+“Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes … the ones who see things differently — they’re not fond of rules … You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things … They push the human race forward, and while some may see them as the crazy ones, we see genius …” – Steve Jobs
