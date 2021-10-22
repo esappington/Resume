@@ -1,12 +1,3 @@
-                
-
-
-# Calculate the Volume of a Cylinder (Improved!)
-# Dale Musser
-# February 1, 2021
-
-# 0 is not positive. 0 and positive values are nonnegative
-# see: https://en.wikipedia.org/wiki/Negative_number
 
 import math
 
