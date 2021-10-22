@@ -1,5 +1,12 @@
-# Eric Sappington
-[Resume](https://github.com/esappington/Resume/blob/main/FullResume)
+# Eric Sappington information website
+#### [Resume](https://github.com/esappington/Resume/blob/main/FullResume)
+
+## Python Coding Programs
+[Cylinder_coatings_estimator](https://github.com/esappington/Resume/blob/b0026deee2efe7af8fcb77f58b842d866967e5d9/cylinder_coatings_estimator.py)
+
+[Animal_Generator](https://github.com/esappington/Resume/blob/b0026deee2efe7af8fcb77f58b842d866967e5d9/animalGenerator.py)
+
+[Gradebook](https://github.com/esappington/Resume/blob/df8060713436949982b614d7da2f96223b8008d0/gradebook.py)
 
 ## Interests include
 ![Blues for the win](https://github.com/esappington/Resume/blob/main/1200px-St._Louis_Blues_logo.svg.png)
