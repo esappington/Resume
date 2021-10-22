@@ -2,6 +2,8 @@
 #### [_Resume_](https://github.com/esappington/Resume/blob/main/FullResume)
 #### [_Linkdin_](https://www.linkedin.com/in/eric-sappington-0bb20628)
 #### [Favorite Bands](https://github.com/esappington/Resume/blob/350ed319d6a9e5ba83caa6feacbf23ba8620fe82/Favorite%20Bands)
+#### [Favorite Movies](https://github.com/esappington/Resume/blob/89ac5420ff55ce2f3edc74eaa816f488c477ff9e/favorite%20movies)
+
 
 ## Python Coding Programs
 * [Cylinder_coatings_estimator](https://github.com/esappington/Resume/blob/0d25b8614f8567322bbd0e2f9a29393afc09bc44/cylinder_coatings_estimator.py)
