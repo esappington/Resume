@@ -1,6 +1,7 @@
 # **Eric Sappington**
 #### [_Resume_](https://github.com/esappington/Resume/blob/main/FullResume)
 #### [_Linkdin_](https://www.linkedin.com/in/eric-sappington-0bb20628)
+#### [Favorite Bands](https://github.com/esappington/Resume/blob/350ed319d6a9e5ba83caa6feacbf23ba8620fe82/Favorite%20Bands)
 
 ## Python Coding Programs
 * [Cylinder_coatings_estimator](https://github.com/esappington/Resume/blob/b0026deee2efe7af8fcb77f58b842d866967e5d9/cylinder_coatings_estimator.py)
