@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Eric J. Sappington**
 ![GitHubRepoImage](https://github.com/esappington/Resume/blob/37ec5ec66991ea992b9da07bef1035d436e3ada9/GitHubImageExamples.jfif)
 
@@ -64,3 +65,7 @@ Links between the markdown pages.Provide navigation forward and backward when li
 One or more images that are hosted in the GitHub repo.
 
 A block of code.
+=======
+# Resume
+Public resume for Eric Sappington 10/22/21
+>>>>>>> parent of 4c3a8dd (Update README.md)
