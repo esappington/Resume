@@ -1,4 +1,4 @@
-# Eric Sappington information website
+# Eric Sappington information 
 #### [Resume](https://github.com/esappington/Resume/blob/main/FullResume)
 
 ## Python Coding Programs
